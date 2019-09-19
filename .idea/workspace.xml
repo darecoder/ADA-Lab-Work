@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea0467ab-98a1-44ad-81b4-89c4ee582aed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ekta/lab5/ActivitySelection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ekta/lab5/FractionalKnapSack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ekta/lab6/HuffmanCodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ekta/lab6/TaskScheduling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ekta/lab7/Kruskal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ekta/lab7/Prims.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ekta/lab8/BellmanFord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ekta/lab8/Dijkstra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ekta/lab9/KnuthMorris.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ekta/lab9/RabinKarp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ekta/lab2/CountSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ekta/lab2/CountSort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +69,7 @@
       <updated>1566204742248</updated>
       <workItem from="1568728167054" duration="555000" />
       <workItem from="1568738444204" duration="12000" />
-      <workItem from="1568864733974" duration="1542000" />
+      <workItem from="1568864733974" duration="2820000" />
     </task>
     <servers />
   </component>
