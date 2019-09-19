@@ -2,7 +2,7 @@ package com.ekta.lab1;
 
 import java.util.Arrays;
 
-public class Main {
+public class Sorting {
     static int cost1 = 0;
     static int cost2 = 0;
     static int cost3 = 0;

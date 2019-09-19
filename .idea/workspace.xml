@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea0467ab-98a1-44ad-81b4-89c4ee582aed" name="Default Changelist" comment="" />
+    <list default="true" id="ea0467ab-98a1-44ad-81b4-89c4ee582aed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/ekta/lab2/CountSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ekta/lab2/Strassen_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ekta/lab3/MatrixChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ekta/lab3/_01_KnapSack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ekta/lab4/FloydWarshall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ekta/lab4/LCS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ekta/lab1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ekta/lab1/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ekta/lab2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ekta/lab3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ekta/lab4/Main.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,7 +51,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.ekta.lab1.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.ekta.lab1.Sorting" />
       <module name="ADA_Lab" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -57,7 +76,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566204742248</updated>
+      <workItem from="1568728167054" duration="555000" />
+      <workItem from="1568738444204" duration="12000" />
+      <workItem from="1568864733974" duration="1014000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
