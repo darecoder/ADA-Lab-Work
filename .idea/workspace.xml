@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ea0467ab-98a1-44ad-81b4-89c4ee582aed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ekta/lab2/CountSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ekta/lab2/CountSort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +40,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CountSort">
+    <configuration name="CountSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ekta.lab2.CountSort" />
+      <module name="ADA_Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ekta.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.ekta.lab1.Sorting" />
       <module name="ADA_Lab" />
@@ -52,6 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountSort" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -71,7 +86,8 @@
       <workItem from="1568864733974" duration="2948000" />
       <workItem from="1568955434453" duration="641000" />
       <workItem from="1569038888633" duration="876000" />
-      <workItem from="1569075006881" duration="838000" />
+      <workItem from="1569075006881" duration="1366000" />
+      <workItem from="1569245329659" duration="436000" />
     </task>
     <servers />
   </component>
