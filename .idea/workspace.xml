@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea0467ab-98a1-44ad-81b4-89c4ee582aed" name="Default Changelist" comment="" />
+    <list default="true" id="ea0467ab-98a1-44ad-81b4-89c4ee582aed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ekta/lab3/MatrixChain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ekta/lab3/MatrixChain.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountSort">
+  <component name="RunManager" selected="Application.MatrixChain">
     <configuration name="CountSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ekta.lab2.CountSort" />
       <module name="ADA_Lab" />
@@ -61,8 +64,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MatrixChain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ekta.lab3.MatrixChain" />
+      <module name="ADA_Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ekta.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatrixChain" />
         <item itemvalue="Application.CountSort" />
         <item itemvalue="Application.Main" />
       </list>
@@ -88,6 +105,7 @@
       <workItem from="1569428649947" duration="61000" />
       <workItem from="1569429049014" duration="78000" />
       <workItem from="1569505898868" duration="79000" />
+      <workItem from="1569677875559" duration="773000" />
     </task>
     <servers />
   </component>
