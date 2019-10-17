@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ea0467ab-98a1-44ad-81b4-89c4ee582aed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ekta/lab5/FractionalKnapSack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ekta/lab5/FractionalKnapSack.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +25,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-websocket-chat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CompetitiveProgramming" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -108,6 +107,7 @@
       <workItem from="1569677875559" duration="1723000" />
       <workItem from="1569769564889" duration="514000" />
       <workItem from="1569859038097" duration="49000" />
+      <workItem from="1570976319475" duration="728000" />
     </task>
     <servers />
   </component>
