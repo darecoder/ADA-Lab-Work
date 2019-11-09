@@ -13,7 +13,7 @@ public class Searching {
             nums[i] = s.nextInt();
         }
 
-//        System.out.println(linearSearch(nums, 8));
+        System.out.println(linearSearch(nums, 8));
         System.out.println(binarySearch(nums, 8));
 
     }

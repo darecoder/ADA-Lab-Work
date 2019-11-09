@@ -1,6 +1,6 @@
 package com.ekta.lab5;
 
-public class Optimal_BST2 {
+public class Optimal_BST {
     public static void main(String[] args) { 
         int keys[] = { 10, 12, 20 };
         int freq[] = { 34, 8, 50 }; 
