@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea0467ab-98a1-44ad-81b4-89c4ee582aed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/ekta/lab5/Optimal_BST2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ekta/lab2/Searching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ekta/lab2/Searching.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ekta/lab3/_01_KnapSack.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +123,8 @@
       <workItem from="1569769564889" duration="514000" />
       <workItem from="1569859038097" duration="49000" />
       <workItem from="1570976319475" duration="728000" />
-      <workItem from="1572784606965" duration="2119000" />
+      <workItem from="1572784606965" duration="2779000" />
+      <workItem from="1573302519660" duration="243000" />
     </task>
     <servers />
   </component>
