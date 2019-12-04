@@ -1,6 +1,6 @@
 package com.ekta.lab1;
 
-import java.util.Arrays;
+import  java.util.Arrays;
 
 public class Sorting {
 
