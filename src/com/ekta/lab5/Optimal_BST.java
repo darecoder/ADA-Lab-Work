@@ -34,8 +34,9 @@ public class Optimal_BST {
     public static int sum(int freq[], int i, int j) {
         int s = 0;
         for (int k = i; k <= j; k++) {
-            if (k >= freq.length)
-                continue;
+            if (k >= freq.length) {
+                break;
+            }
             s += freq[k];
         }
         return s;
