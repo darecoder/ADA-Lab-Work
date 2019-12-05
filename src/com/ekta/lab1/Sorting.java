@@ -99,10 +99,13 @@ public class Sorting {
     }
 
     public static int[] mergeSort(int[] nums){
+        cost3++;
         if(nums.length < 2){
             return nums;
         }
+
         int mid = nums.length/2;
+
         int[] first = Arrays.copyOfRange(nums,0,mid);
         int[] second = Arrays.copyOfRange(nums,mid,nums.length);
 
@@ -116,13 +119,16 @@ public class Sorting {
         int i=0,j=0,k=0;
         int[] res = new int[first.length+second.length];
 
+        cost3++;
         while(i < first.length && j < second.length){
+            cost3++;
             if(first[i] < second[j]){
                 res[k++] = first[i++];
             }else{
                 res[k++] = second[j++];
             }
         }
+        cost3++;
         while(i < first.length){
             res[k++] = first[i++];
         }
